@@ -1,4 +1,5 @@
 import './About.css'
+import nitin from '../images/nitin2.jpg'
 
 const About = () => {
     return (
@@ -11,6 +12,7 @@ const About = () => {
                     <p>I am Nitin Rohit, a final-year student from the Department of Electrical Engineering at the Indian Institute of Technology Kharagpur.</p>
                     {/* <button className='button'>Explore More</button> */}
                 </div>
+                <img src={nitin} />
             </div>
         </div>
     )

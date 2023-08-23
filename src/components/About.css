@@ -44,6 +44,13 @@
     border:0px;
 }
 
+.about .container img {
+    border-radius: 50px;
+    width: 40vw;
+    margin:4rem 0 0 0;
+    
+}
+
 @media screen and (max-width:940px) {
     .about {
         padding: 8rem 1rem 1rem 1rem;

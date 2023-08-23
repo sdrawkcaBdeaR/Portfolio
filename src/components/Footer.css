@@ -37,3 +37,9 @@
 .line {
     margin-bottom: 1rem;
 }
+
+.handle {
+    margin: 30px;
+    zoom: 150%;
+    color: black;
+}

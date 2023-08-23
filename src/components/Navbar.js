@@ -11,7 +11,8 @@ function Navbar() {
 
 	return (
 		<header>
-			<h3>NIT.RO</h3>
+			<h3>NITRO</h3>
+			<div>
 			<nav ref={navRef}>
 				<a href="/">Home</a>
 				<a href='#about' onClick={showNavbar}>About</a>
@@ -27,6 +28,7 @@ function Navbar() {
 				onClick={showNavbar}>
 				<FaBars />
 			</button>
+			</div>
 		</header>
 	);
 }

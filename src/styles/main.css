@@ -30,6 +30,7 @@ nav a {
 	margin: 0 1rem;
 	color: var(--textColor);
 	text-decoration: none;
+	font-size: 1.25rem;
 }
 
 nav a:hover {

@@ -7,9 +7,9 @@ const About = () => {
                 <div className='col-2'>
                     <h2>About</h2>
                     <span className='line'></span>
-                    <p>Intense is an International Financial Planning company with offices i n multiple jurisdictions over the world. Working with Intense gives me the ability to advise internat ional expatriates living in the middle east from where I live in USA.</p>
-                    <p>I am John Doe, a senior advisor for an independently owned financial planning company called Intense.</p>
-                    <button className='button'>Explore More</button>
+                    <p>I’m a passionate technology enthusiast and coding aficionado! With a dynamic personality driven by a relentless curiosity for all things, I like to explore things which could be learned and exploited. With a thirst for knowledge and a penchant for continuous learning, I embrace every challenge as an opportunity to grow. Whether it's unraveling the mysteries of complex algorithms or crafting elegant solutions to real-world problems. I take mathematics as my first step in all the problems I solve, giving me a procedural way to achieve my desired goal.</p>
+                    <p>I am Nitin Rohit, a final-year student from the Department of Electrical Engineering at the Indian Institute of Technology.</p>
+                    {/* <button className='button'>Explore More</button> */}
                 </div>
             </div>
         </div>

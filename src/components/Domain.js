@@ -9,21 +9,21 @@ const Domain = () => {
                 <div className='content'>
                     <div className='card'>
                         <img src='' alt='user1'/>
-                        <p>It is not every day that you come across a passionate and trustworthy financial advisor. John Doe is true professional who does his work really well. Thanks John!</p>
-                        <p><span>Johnson.M.J.</span></p>
-                        <p>Director of "Financial Times"</p>
+                        <p><span>Software development</span></p>
+                        <p>The realm of software development captivates me due to its creative problem-solving and tangible impact. Embracing continuous learning in this dynamic field not only fuels my drive to innovate but also empowers me to transform abstract concepts into practical, user-centered solutions. With each line of code, I find the means to shape the digital landscape and contribute to a technology-driven future.</p>
+                        <p>"Where 0s and 1s write the language of technology."</p>
                     </div>
                     <div className='card'>
                         <img src='' alt='user1'/>
-                        <p>In just 2 very short meetings with John he managed to find the solution personally catered to my situation and expectations. Punctual, well informed and very reliable.</p>
-                        <p><span>Carol Harper</span></p>
-                        <p>Director at Risktec Solutions Ltd</p>
+                        <p><span>Artificial Intelligence</span></p>
+                        <p>IThe world of AI fascinates me with its boundless potential and transformative impact. Embracing the constant evolution in this dynamic field not only fuels my passion for innovation but also empowers me to craft intelligent systems that simulate human intelligence and decision-making. With each algorithm and model, I find the means to shape the future by harnessing the capabilities of AI to tackle intricate challenges and unlock new realms of possibility.</p>
+                        <p>"Turning data into insights, and innovation into possibility"</p>
                     </div>
                     <div className='card'>
                         <img src='' alt='user1'/>
-                        <p>A very professional financial advisor, who is true to his word. John has demonstrated a high amount of integrity in the time I have known him, and he is fast to respond to my concerns.</p>
-                        <p><span>Snow.J.R.</span></p>
-                        <p>Managing Director of BPW Global</p>
+                        <p><span>Control Systems</span></p>
+                        <p>Immersed in control systems, I'm drawn to their blend of theory and real-world impact. Embracing perpetual advancement fuels my passion for precision and empowers me to engineer systems that govern processes with accuracy. Each refined algorithm and feedback loop shapes outcomes, ensuring stability in intricate systems driving technology and industries.</p>
+                        <p>"Orchestrating precision in complexity"</p>
                     </div>
                 </div>
             </div>

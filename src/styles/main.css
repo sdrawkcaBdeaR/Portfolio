@@ -4,13 +4,13 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
-	font-family: "Titillium Web", sans-serif;
+	font-family: 'Courier New', Courier, monospace;
 }
 
 :root {
-	--mainColor: #29335c;
+	--mainColor: #000;
 	--mainColorLight: #5767aa;
-	--secondaryColor: #db2b39;
+	--secondaryColor: #747474;
 	--textColor: #eee;
 }
 

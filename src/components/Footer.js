@@ -5,7 +5,7 @@ const Footer = () => {
         <div className='footer'>
                 <div className='bottom'>
                     <span className='line'></span>
-                    <p>2020 Execute, Inc. All rights reserved</p>
+                    <p>The game is won in the Mind</p>
                 </div>
         </div>
     )

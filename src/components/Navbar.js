@@ -11,7 +11,7 @@ function Navbar() {
 
 	return (
 		<header>
-			<h3>LOGO</h3>
+			<h3>NIT.RO</h3>
 			<nav ref={navRef}>
 				<a href="/">Home</a>
 				<a href='#about' onClick={showNavbar}>About</a>

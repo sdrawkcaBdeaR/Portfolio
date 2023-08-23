@@ -1,7 +1,7 @@
 .about {
     background-color: #f8f8f8;
     margin: auto;
-    padding: 8rem 1rem 0 1rem;
+    padding: 8rem 1rem 1rem 1rem;
     width: 100%;
 }
 
@@ -36,9 +36,19 @@
 
 .about button {
     margin-top: 1rem;
+    color: #f8f8f8;
+    background-color: black;
+    padding: 0.5rem;
+    border-radius: 2rem;
+    font-size: 20px;
+    border:0px;
 }
 
 @media screen and (max-width:940px) {
+    .about {
+        padding: 8rem 1rem 1rem 1rem;
+    }
+
     .about .container {
         grid-template-columns: 1fr;
     }
@@ -58,5 +68,11 @@
 
     .about button {
         margin-bottom: 1rem;
+        color: #f8f8f8;
+        background-color: black;
+        padding: 0.5rem;
+        border-radius: 2rem;
+        font-size: 20px;
+        border:0px;
     }
 }

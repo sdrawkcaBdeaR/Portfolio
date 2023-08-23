@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.52bc02d2.css",
+    "main.js": "/Portfolio/static/js/main.70112061.js",
+    "static/media/nitin2.jpg": "/Portfolio/static/media/nitin2.dbd63657138bd9d2e164.jpg",
+    "static/media/software.jpg": "/Portfolio/static/media/software.822f48c15c3961e3cd06.jpg",
+    "static/media/control.jpg": "/Portfolio/static/media/control.43bb48311c59f829fbf2.jpg",
+    "static/media/AI.jpg": "/Portfolio/static/media/AI.b2bcb6ec4b853bb98bd7.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.52bc02d2.css.map": "/Portfolio/static/css/main.52bc02d2.css.map",
+    "main.70112061.js.map": "/Portfolio/static/js/main.70112061.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52bc02d2.css",
+    "static/js/main.70112061.js"
+  ]
+}

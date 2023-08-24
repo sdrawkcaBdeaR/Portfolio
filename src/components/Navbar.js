@@ -14,7 +14,7 @@ function Navbar() {
 			<h3>NITRO</h3>
 			<div>
 			<nav ref={navRef}>
-				<a href="/">Home</a>
+				<a href="#" onClick={showNavbar}>Home</a>
 				<a href='#about' onClick={showNavbar}>About</a>
                 <a href="#domain" onClick={showNavbar}>Domain</a>
 				<button

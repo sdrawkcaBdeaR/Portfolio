@@ -1,9 +1,15 @@
 import './About.css'
 import nitin from '../images/nitin2.jpg'
+import { useState } from 'react';
 
-const About = () => {
+const About = ({state}) => {
+    const darkmode={
+        backgroundColor:"#3B3B3B",
+        color:"white"
+    }
+    
     return (
-        <div className='about' id='about'>
+        <div className='about' id='about' style={state?darkmode:{}}>
             <h2>About</h2>
             <div className='container'>
                 <img src={nitin} />

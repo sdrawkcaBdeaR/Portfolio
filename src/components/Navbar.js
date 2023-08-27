@@ -1,8 +1,9 @@
 import { useRef } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import "../styles/main.css";
+import ToggleButon from "./ToggleButton";
 
-function Navbar() {
+function Navbar({buttonClick}) {
 	const navRef = useRef();
 
 	const showNavbar = () => {
@@ -11,6 +12,7 @@ function Navbar() {
 
 	return (
 		<header>
+			<ToggleButon buttonClick={buttonClick}/>
 			<h3>NITRO</h3>
 			<div>
 			<nav ref={navRef}>

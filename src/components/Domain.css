@@ -49,6 +49,9 @@
 img {
     width: 100%;
 }
+.quote {
+    font-style: italic;
+}
 
 @media screen and (max-width: 940px) {
     .domain .container {

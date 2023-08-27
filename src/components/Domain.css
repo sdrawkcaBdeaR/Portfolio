@@ -23,7 +23,7 @@
 
 .domain .card {
     border: 1px solid #eee;
-    border-radius: 8px;
+    border-radius: 4em;
     box-shadow: 0 3px 10px rgb(0,0,0,.2);
     padding: 3rem 1rem 1rem 1rem;
 }

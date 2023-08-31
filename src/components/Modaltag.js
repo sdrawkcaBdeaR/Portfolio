@@ -2,7 +2,7 @@ import ReactModal from 'react-modal'
 import { useState } from 'react'
 import './Modaltag.css'
 
-const Modaltag = () => {
+const Modaltag = ({desp}) => {
     const [modalIsOpen, setModalIsOpen] = useState(false);
   
     const openModal = () => {
@@ -23,7 +23,7 @@ const Modaltag = () => {
           ariaHideApp={false}
           className="ReactModal"
         >
-          <p>Hello, this is your modal content!</p>
+          <p>{desp}</p>
         </ReactModal>
       </>
     );

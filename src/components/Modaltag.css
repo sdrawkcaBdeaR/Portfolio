@@ -1,7 +1,9 @@
 .ReactModal {
-    width: 50%;
-    height: 400px;
-    margin: auto;
-    background-color: white;
+    width: 80%;
+    height: 80%;
+    margin: 10% auto;
+    padding: 20px;
+    background-color: #3B3B3B;
+    color: white;
     border-radius: 20px;
 }

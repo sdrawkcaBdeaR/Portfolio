@@ -2,7 +2,6 @@ import './Blog.css'
 import ai from '../images/AI.jpg'
 import sde from '../images/software.jpg'
 import cs from '../images/control.jpg'
-import { useState } from 'react';
 import ShowBlog from './ShowBlog';
 
 const Blog = ({state}) => {

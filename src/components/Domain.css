@@ -6,7 +6,7 @@
 .domain .container {
     width: 950px;
     margin: 4rem auto;
-    padding: 4rem 0rem;
+    padding: 4rem 0rem 0rem 0rem;
 }
 
 .domain h2 {

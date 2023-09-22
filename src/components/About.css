@@ -47,9 +47,8 @@
 
 .about .container img {
     border-radius: 50px;
-    width: 40vw;
-    margin:4rem 0 0 0;
-    
+    width: 30vw;
+    margin: auto 4rem;
 }
 
 @media screen and (max-width:940px) {

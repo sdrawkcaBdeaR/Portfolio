@@ -32,7 +32,7 @@ const Blog = ({state}) => {
     ]
     const showblogs=blogs.map((blog,index)=>{
         return(
-            <ShowBlog item={blog} key={index} state={state}/>
+            <ShowBlog item={blog} key={index} state={state} index={index}/>
         )
     })
 

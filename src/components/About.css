@@ -67,6 +67,7 @@
     .about .container img {
         padding: 0rem;
         width: 90vw;
+        margin: auto 0rem;
     }
 
     .about .container .col-2 {

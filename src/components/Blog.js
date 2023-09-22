@@ -39,7 +39,7 @@ const Blog = ({state}) => {
     return (
         <div className='blog' id='blog' style={state?darkmode:{}}>
             <div className='container'>
-                <h2>Blog</h2>
+                <h2>Blogs</h2>
                 <div className='content'>
                     {showblogs}
                 </div>

@@ -10,7 +10,7 @@ const ShowBlog=({item,state})=>{
     return (
         <div className='card' style={state?darkmodecard:{}}>
             <div className='icard'>
-                <img src={item.imgadd} alt={item.imgadd}/>
+                <img className='bimg' src={item.imgadd} alt={item.imgadd}/>
                 <div>
                     <p><span>{item.title}</span></p>
                     <p className='truncated-description' >{item.description}</p>

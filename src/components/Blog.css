@@ -29,8 +29,7 @@
 }
 
 .icard {
-    display: grid;
-    grid-template-columns: repeat(2,1fr);
+    display: flex;
 }
 
 .blog img {
@@ -55,13 +54,18 @@ img {
     width: 100%;
 }
 
+.bimg {
+    width: 20%;
+    aspect-ratio: 1;
+}
+
 .quote {
     font-style: italic;
 }
 
 .truncated-description {
     display: -webkit-box;
-    -webkit-line-clamp: 5;
+    -webkit-line-clamp: 8;
     -webkit-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -82,5 +86,8 @@ img {
     .icard {
         display: grid;
         grid-template-rows: 1fr;
+    }
+    .bimg {
+        width: 100%;
     }
 }

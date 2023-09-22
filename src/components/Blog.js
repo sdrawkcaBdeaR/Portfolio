@@ -25,7 +25,7 @@ const Blog = ({state}) => {
         },
         {
             imgadd:blog3,
-            title:"Trip-py",
+            title:"Trip",
             description:"Immersed in control systems, I'm drawn to their blend of theory and real-world impact. Embracing perpetual advancement fuels my passion for precision and empowers me to engineer systems that govern processes with accuracy. Each refined algorithm and feedback loop shapes outcomes, ensuring stability in intricate systems driving technology and industries.",
             quote: "Orchestrating precision in complexity"
         }
@@ -40,7 +40,6 @@ const Blog = ({state}) => {
         <div className='blog' id='blog' style={state?darkmode:{}}>
             <div className='container'>
                 <h2>Blog</h2>
-                <span className='line'></span>
                 <div className='content'>
                     {showblogs}
                 </div>

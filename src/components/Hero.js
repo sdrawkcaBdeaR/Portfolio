@@ -24,9 +24,13 @@ const Hero = ({state}) => {
                     </div>
                     <div className='box'>
                         <div className='box1 boxx'></div>
+                        <div className='anim anim1'></div>
                         <div className='box2 boxx'></div>
+                        <div className='anim anim2'></div>
                         <div className='box3 boxx'></div>
+                        <div className='anim anim3'></div>
                         <div className='box4 boxx'></div>
+                        <div className='anim anim4'></div>
                     </div>
                 </div>
             </div>

@@ -156,11 +156,20 @@
     }
     .box {
         position: static;
-        margin-top: 4rem;
+        margin-top: 12rem;
         display:grid;
     }
     .anim {
         width: 50%;
         left: 25%;
+    }
+    .box {
+        grid-template-columns: repeat(4,1fr);
+    }
+    .box1 {
+        top: 0px;
+    }
+    .box4 {
+        left:0px;
     }
 }

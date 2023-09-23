@@ -6,7 +6,7 @@ const ShowBlog=({item,state,index})=>{
         color:"white",
         border:"0px"
     }
-    const buttom=(index%2)?(<img className='bimg' src={item.imgadd} alt={item.imgadd}/>):null;
+    const buttom=(index%2)?(<img className='bimg' src={item.imgadd} alt={item.imgadd} style={{marginTop:"0.2rem"}} />):null;
     const top=(index%2)?null:(<img className='bimg' src={item.imgadd} alt={item.imgadd}/>);
 
     return (

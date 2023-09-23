@@ -19,7 +19,7 @@ function Navbar({buttonClick}) {
 				<a href="#" onClick={showNavbar}>Home</a>
 				<a href='#about' onClick={showNavbar}>About</a>
                 <a href="#domain" onClick={showNavbar}>Domain</a>
-				<a href="#blog" onClick={showNavbar}>Blog</a>
+				<a href="#blog" onClick={showNavbar}>Blogs</a>
 				<button
 					className="nav-btn nav-close-btn"
 					onClick={showNavbar}>

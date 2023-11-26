@@ -20,7 +20,7 @@ const Blog = ({state}) => {
         {
             imgadd:blog2,
             title:"Fallen Angels",
-            description:"The world of AI fascinates me with its boundless potential and transformative impact. Embracing the constant evolution in this dynamic field not only fuels my passion for innovation but also empowers me to craft intelligent systems that simulate human intelligence and decision-making. With each algorithm and model, I find the means to shape the future by harnessing the capabilities of AI to tackle intricate challenges and unlock new realms of possibility.",
+            description:"The world of fallen angels fascinates me with its boundless potential and transformative impact. Embracing the constant evolution in this dynamic field not only fuels my passion for innovation but also empowers me to craft intelligent systems that simulate human intelligence and decision-making. With each algorithm and model, I find the means to shape the future by harnessing the capabilities of AI to tackle intricate challenges and unlock new realms of possibility.",
             quote: "Turning data into insights, and innovation into possibility"
         },
         {

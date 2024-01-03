@@ -20,6 +20,7 @@ function Navbar({buttonClick}) {
 				<a href='#about' onClick={showNavbar}>About</a>
                 <a href="#domain" onClick={showNavbar}>Domain</a>
 				<a href="#blog" onClick={showNavbar}>Blogs</a>
+				<a href="#Hobbies" onClick={showNavbar}>Hobbies</a>
 				<button
 					className="nav-btn nav-close-btn"
 					onClick={showNavbar}>

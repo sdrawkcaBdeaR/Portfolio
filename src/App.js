@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Domain from "./components/Domain";
 import Blog from "./components/Blog";
+import Hobbies from "./components/Hobbies";
 import Footer from "./components/Footer";
 import { useState } from "react";
 
@@ -19,6 +20,7 @@ const App=()=>{
             <About state={toggle}/>
             <Domain state={toggle}/>
             <Blog state={toggle} />
+            <Hobbies state={toggle}/>
             <Footer state={toggle}/>
         </>
     )

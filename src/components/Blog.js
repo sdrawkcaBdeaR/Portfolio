@@ -1,6 +1,6 @@
 import './Blog.css'
 import blog1 from '../images/blog1.jpg'
-import blog2 from '../images/blog2.jpg'
+import blog2 from '../images/MOT.jpg'
 import blog3 from '../images/blog3.jpg'
 import ShowBlog from './ShowBlog';
 
@@ -19,8 +19,8 @@ const Blog = ({state}) => {
         },
         {
             imgadd:blog2,
-            title:"Fallen Angels",
-            description:"The world of fallen angels fascinates me with its boundless potential and transformative impact. Embracing the constant evolution in this dynamic field not only fuels my passion for innovation but also empowers me to craft intelligent systems that simulate human intelligence and decision-making. With each algorithm and model, I find the means to shape the future by harnessing the capabilities of AI to tackle intricate challenges and unlock new realms of possibility.",
+            title:"Shaurya 2023",
+            description:"IIT KGP was organising its sports festival after 10 years because of its ban and post covid trauma. \nFor any sports team it was a golden opportunity as the tournament was happening in their home ground and every team was eagerly practicing to participate. We had the advantage of representing two teams from our college as we were the host of the tournament. We started our practice with few people in start as the old team members were having internship and placement prep going on, and the juniors were not aware of the upcoming tournament. Then we had to give notice and called everyone who was interested. To our astonishment more than required people started coming to practice and it was too hectic to manage more than 50 people at once. \nWith help of our coach and immediate junior we were able to mange the practice sessions in a fruitful way. I was able to see the juniors make a tremendous amount of improvement. My friend Arjit Lohia was the leading role during the entire training process for the tournament. The practice when on continuously with only break during the mid-semester examination. \nIn the end we had matches with the outside teams and among ourselves for having an actual tournament scenario matches for getting away juniors fear. \nOur A team match started with match against St. Xavier’s where I scored the one and only winning goal of the match. In the next match we won 4-0 against NSUT were I scored the first goal. Paralleling our B team won against IIT Dhanbad and unfortunately we were forced to have semifinals against them. Our team A won and qualified to the finals and team B had to play for the third place. Our finals was against St. Xavier’s and this time they won after scoring a goal after halftime also few minutes that we got a red card, making it even harder for us to score a goal. But we gave everything we had till the end. I was very happy with the performance from everyone. \nI even got player of the tournament award in the end, all because of my team.",
             quote: "Turning data into insights, and innovation into possibility"
         },
         {

@@ -4,6 +4,7 @@ import About from "./components/About";
 import Domain from "./components/Domain";
 import Blog from "./components/Blog";
 import Hobbies from "./components/Hobbies";
+import TimeLine from "./components/TimeLine";
 import Footer from "./components/Footer";
 import { useState } from "react";
 
@@ -21,6 +22,7 @@ const App=()=>{
             <Domain state={toggle}/>
             <Blog state={toggle} />
             <Hobbies state={toggle}/>
+            <TimeLine state={toggle}/>
             <Footer state={toggle}/>
         </>
     )

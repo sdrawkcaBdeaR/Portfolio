@@ -22,12 +22,17 @@
 .desc {
     display: flex;
     justify-content: center;
-    padding: 20px;
+    padding: 20px 70px;
     box-shadow: 0 3px 10px rgb(0,0,0,.2);
     width: 400px;
     border-radius: 30px;
     height: 200px;
+    overflow-y: auto;
 }
+
+.desc::-webkit-scrollbar {
+    width: 0.5em;
+  }  
 
 .extra {
     display: flex;

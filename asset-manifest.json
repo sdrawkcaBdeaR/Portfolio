@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.e96c4eeb.css",
-    "main.js": "/Portfolio/static/js/main.66c42d3f.js",
+    "main.css": "/Portfolio/static/css/main.3ec1d2fb.css",
+    "main.js": "/Portfolio/static/js/main.40015b46.js",
+    "static/media/MOT.jpg": "/Portfolio/static/media/MOT.53afab5c151d818b7fb3.jpg",
     "static/media/blog1.jpg": "/Portfolio/static/media/blog1.f1cea29bef3afb43b40b.jpg",
-    "static/media/blog2.jpg": "/Portfolio/static/media/blog2.56eac3208cb73dcb6e8c.jpg",
     "static/media/blog3.jpg": "/Portfolio/static/media/blog3.b0bcf57b35d1d9a5a7d5.jpg",
     "static/media/nitin2.jpg": "/Portfolio/static/media/nitin2.dbd63657138bd9d2e164.jpg",
     "static/media/software.jpg": "/Portfolio/static/media/software.822f48c15c3961e3cd06.jpg",
     "static/media/control.jpg": "/Portfolio/static/media/control.43bb48311c59f829fbf2.jpg",
     "static/media/AI.jpg": "/Portfolio/static/media/AI.b2bcb6ec4b853bb98bd7.jpg",
+    "static/media/football.jpg": "/Portfolio/static/media/football.ee9423175fa7e0184e46.jpg",
+    "static/media/fineass.jpg": "/Portfolio/static/media/fineass.5e44deca420a4b68cbab.jpg",
+    "static/media/reading.jpeg": "/Portfolio/static/media/reading.a76a0a6a825a3e6fb271.jpeg",
     "index.html": "/Portfolio/index.html",
-    "main.e96c4eeb.css.map": "/Portfolio/static/css/main.e96c4eeb.css.map",
-    "main.66c42d3f.js.map": "/Portfolio/static/js/main.66c42d3f.js.map"
+    "main.3ec1d2fb.css.map": "/Portfolio/static/css/main.3ec1d2fb.css.map",
+    "main.40015b46.js.map": "/Portfolio/static/js/main.40015b46.js.map"
   },
   "entrypoints": [
-    "static/css/main.e96c4eeb.css",
-    "static/js/main.66c42d3f.js"
+    "static/css/main.3ec1d2fb.css",
+    "static/js/main.40015b46.js"
   ]
 }
